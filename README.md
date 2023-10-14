@@ -22,10 +22,6 @@ While developing the app, you’ll:
 - make use of TypeScript
 - and many more best practices that set you apart in the industry
 
-The only thing you need to follow along? The basics of React.
-
-So, [watch the video now](https://youtu.be/cuzw4vL1z5E) because we’ll start simple and go through each of these skills step by step with in-depth explanations so you’ll not only learn the fundamentals but be able to create your own amazing Next.js, Tailwind, and TypeScript-powered applications. 
-
 And don't overlook the fact that, by the end of this video, you'll have an impressive project ready to be featured in your portfolio and impress your friends, clients, and even potential employers.
 
 ## Want to land your dream programming job in 3 - 6 months?
