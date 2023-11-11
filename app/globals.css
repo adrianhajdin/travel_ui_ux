@@ -21,8 +21,8 @@ body {
   .btn_white_text  { 
     @apply  border-white bg-white px-8 py-3 text-gray-90
   }
-  .btn_green  { 
-    @apply  border-green-50 bg-green-50 px-8 py-5 text-white
+  .btn_blue  { 
+    @apply  border-blue-50 bg-blue-600 px-8 py-5 text-white
   }
   .btn_dark_green { 
     @apply  bg-green-90 px-8 py-4 text-white transition-all hover:bg-black

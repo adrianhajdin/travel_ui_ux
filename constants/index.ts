@@ -1,9 +1,7 @@
 // NAVIGATION
 export const NAV_LINKS = [
-  { href: '/', key: 'home', label: 'Home' },
-  { href: '/', key: 'how_hilink_work', label: 'How Hilink Work?' },
+  { href: '/', key: 'how_hilink_work', label: 'About' },
   { href: '/', key: 'services', label: 'Services' },
-  { href: '/', key: 'pricing ', label: 'Pricing ' },
   { href: '/', key: 'contact_us', label: 'Contact Us' },
 ];
 
@@ -49,28 +47,16 @@ export const FEATURES = [
 
 // FOOTER SECTION
 export const FOOTER_LINKS = [
-  {
-    title: 'Learn More',
-    links: [
-      'About Hilink',
-      'Press Releases',
-      'Environment',
-      'Jobs',
-      'Privacy Policy',
-      'Contact Us',
-    ],
-  },
-  {
-    title: 'Our Community',
-    links: ['Climbing xixixi', 'Hiking hilink', 'Hilink kinthill'],
-  },
+  
 ];
 
 export const FOOTER_CONTACT_INFO = {
   title: 'Contact Us',
   links: [
-    { label: 'Admin Officer', value: '123-456-7890' },
-    { label: 'Email Officer', value: 'hilink@akinthil.com' },
+    { label: 'Call', value: '0506259398' },
+    { label: 'Call', value: '0240519345' },
+    { label: 'For Assistance Call', value: '0558900748' },
+    { label: 'Email', value: 'goodlifeservices52@gmail.com' },
   ],
 };
 
@@ -80,7 +66,5 @@ export const SOCIALS = {
     '/facebook.svg',
     '/instagram.svg',
     '/twitter.svg',
-    '/youtube.svg',
-    '/wordpress.svg',
   ],
 };

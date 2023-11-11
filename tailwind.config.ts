@@ -30,10 +30,15 @@ module.exports = {
         },
       },
       backgroundImage: {
-        'bg-img-1': "url('/img-1.png')",
-        'bg-img-2': "url('/img-2.png')",
+        'bg-img-1': "url('/visa.jpg')",
+        'bg-img-2': "url('/school.jpg')",
+        'bg-img-3': "url('/bank.jpg')",
+        'bg-img-4': "url('/passport.jpg')",
+        'bg-img-5': "url('/cert.jpg')",
+        'bg-img-5': "url('/acc.jpg')",
         'feature-bg': "url('/feature-bg.png')",
-        pattern: "url('/pattern.png')",
+        'visa-bg': "url('/visa.jpg')",
+        'pattern': "url('/pattern.png')",
         'pattern-2': "url('/pattern-bg.png')",
       },
       screens: {
